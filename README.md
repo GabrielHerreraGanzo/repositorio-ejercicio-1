@@ -71,3 +71,23 @@ Fast-forward
 Realiza un último cambio en local añadiendo otra línea al archivo README.md.
 
 Esta línea fue añadida desde la consola local como parte del último paso.
+
+```code
+bae2@jpexposito-VirtualBox:~/Documentos/repositorio-ejercicio-1$ git add README.md
+git commit -m "Añadir última línea al README desde local"
+git push origin main
+[main acbdcfc] Añadir última línea al README desde local
+ 1 file changed, 6 insertions(+)
+Username for 'https://github.com': GabrielHerreraGanzo
+Password for 'https://GabrielHerreraGanzo@github.com': 
+Enumerando objetos: 5, listo.
+Contando objetos: 100% (5/5), listo.
+Compresión delta usando hasta 4 hilos
+Comprimiendo objetos: 100% (2/2), listo.
+Escribiendo objetos: 100% (3/3), 475 bytes | 475.00 KiB/s, listo.
+Total 3 (delta 1), reusados 0 (delta 0), pack-reusados 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/GabrielHerreraGanzo/repositorio-ejercicio-1.git
+   a010d4e..acbdcfc  main -> main
+```
+
