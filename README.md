@@ -44,6 +44,6 @@ To https://github.com/GabrielHerreraGanzo/repositorio-ejercicio-1.git
 
 ## Paso 5: Editar el README.md desde GitHub
 
-
+Esta línea fue añadida directamente desde la interfaz web de GitHub.
 
 
