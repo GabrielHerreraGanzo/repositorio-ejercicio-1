@@ -65,3 +65,9 @@ Fast-forward
  README.md | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
 ```
+
+## Paso 7: Añadir un nuevo cambio en local y subirlo a GitHub
+
+Realiza un último cambio en local añadiendo otra línea al archivo README.md.
+
+Esta línea fue añadida desde la consola local como parte del último paso.
