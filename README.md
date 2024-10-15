@@ -40,9 +40,9 @@ Total 3 (delta 0), reusados 0 (delta 0), pack-reusados 0
 
 To https://github.com/GabrielHerreraGanzo/repositorio-ejercicio-1.git
    1d1b5ac..d87fa6d  main -> main
+```
 
-
- ```
+## Paso 5: Editar el README.md desde GitHub
 
 
 
